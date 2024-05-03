@@ -8,3 +8,4 @@ v.14 lov
 v.15 sjuk
 v.16 skrev på style giuden
 v.17 gjorde klart på style guiden och började på sidan.
+v.18 vi började med en undersida och smapade struktur i alla kod docs
