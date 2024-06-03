@@ -9,3 +9,4 @@ v.15 sjuk
 v.16 skrev på style giuden
 v.17 gjorde klart på style guiden och började på sidan.
 v.18 vi började med en undersida och smapade struktur i alla kod docs
+v.19-22 stylade under sidan about us fixade responsiv till mobil skärm fixade maring värden gjorde om home page la till ett kommentar systemet 
